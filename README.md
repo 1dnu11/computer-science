@@ -63,7 +63,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ## Intro CS
 
-### Introduction to Programming
+### 🚧 Introduction to Programming
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
@@ -71,9 +71,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Status
-:-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | 🚧 Actively Studying
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
 
 ### Introduction to Computer Science
 
