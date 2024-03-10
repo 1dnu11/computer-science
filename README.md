@@ -17,7 +17,7 @@
 
 - [Summary](#summary)
 - [Curriculum](#curriculum)
-- [Created By](#team)
+- [Created By](#creators)
 
 # Summary
 
@@ -437,7 +437,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 
 
-# Created By
+# Creators
 
 * **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 * **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
